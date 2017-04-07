@@ -1,0 +1,6 @@
+1. npm install
+
+2. Sprawdzić czy połączenie do rabbita jest w porządku w plikach a następnie:
+
+3. pierwsza konsola: npm .\consumer.js
+4. druga konsola npm .\producer.js
